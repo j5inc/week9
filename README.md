@@ -18,8 +18,8 @@ Ununtu 14.04 - Shockpot
 Shockpot is a honeypot designed to find those attempting to exploit the Bash remote code vulnerability CVE-2014-6271."
 
 
-Issues you encountered
+### Issues Encountered
 
-Summary of the data collected: number of attacks, number of malware samples, etc.
+### Summary of the data collected: number of attacks, number of malware samples, etc.
 
-Unresolved questions raised by the data collected
+### Unresolved questions raised by the data collected

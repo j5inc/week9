@@ -1,9 +1,9 @@
 # Project 9 - Honeypots
 
 
+### Honeypots Deployed: 
 
-Honeypots Deployed: 
-I used the Modern Honey Network (MHN) to complete the assignment for Week 9. In total, I created three Ubuntu 14.04 honeypots. One was running Dionaea with HTTP, one WordPot, and one ElasticHoney. All of the honeypots, including the MHN admin web application, was hosted in the Google Cloud.
+  I used the Modern Honey Network (MHN) to complete the assignment for Week 9. In total, I created three Ubuntu 14.04 honeypots. One was     running Dionaea with HTTP, one WordPot, and one ElasticHoney. All of the honeypots, including the MHN admin web application, was hosted   in the Google Cloud.
 
 
 Ubuntu 14.04- Dionaea with HTTP
